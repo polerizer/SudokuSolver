@@ -1,0 +1,9 @@
+C:\Users\poler_000\AppData\Local\Temporary Projects\Sudoku Form Filler\bin\Debug\Sudoku Form Filler.exe
+C:\Users\poler_000\AppData\Local\Temporary Projects\Sudoku Form Filler\bin\Debug\Sudoku Form Filler.pdb
+C:\Users\poler_000\AppData\Local\Temporary Projects\Sudoku Form Filler\bin\Debug\Sudoku Form Filler.xml
+C:\Users\poler_000\AppData\Local\Temporary Projects\Sudoku Form Filler\obj\x86\Debug\Sudoku_Form_Filler.Resources.resources
+C:\Users\poler_000\AppData\Local\Temporary Projects\Sudoku Form Filler\obj\x86\Debug\Sudoku Form Filler.vbproj.GenerateResource.Cache
+C:\Users\poler_000\AppData\Local\Temporary Projects\Sudoku Form Filler\obj\x86\Debug\Sudoku Form Filler.exe
+C:\Users\poler_000\AppData\Local\Temporary Projects\Sudoku Form Filler\obj\x86\Debug\Sudoku Form Filler.xml
+C:\Users\poler_000\AppData\Local\Temporary Projects\Sudoku Form Filler\obj\x86\Debug\Sudoku Form Filler.pdb
+C:\Users\poler_000\AppData\Local\Temporary Projects\Sudoku Form Filler\obj\x86\Debug\Sudoku_Form_Filler.sudokuFiller.resources
